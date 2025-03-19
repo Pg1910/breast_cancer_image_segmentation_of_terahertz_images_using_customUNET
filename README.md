@@ -184,6 +184,9 @@ I successfully built an end-to-end **breast cancer image segmentation pipeline**
 
 **Final Metrics:** Dice ≈ 0.8166, IoU ≈ 0.7534  
 
+## 📓 Jupyter Notebook
+You can view the full **Google Colab Notebook** for this project [here](notebooks/thz_breastcacner_segmentation_custom_unet.ipynb).
+
 ### Future Work
 
 - Further hyperparameter tuning.
