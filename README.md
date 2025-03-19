@@ -187,6 +187,10 @@ I successfully built an end-to-end **breast cancer image segmentation pipeline**
 ## 📓 Jupyter Notebook
 You can view the full **Google Colab Notebook** for this project [here](notebooks/thz_breastcacner_segmentation_custom_unet.ipynb).
 
+## 🖼️ Example Segmentation Output
+Here’s an example of the model's predictions:
+![Segmentation Output](results/example_output.png)
+
 ### Future Work
 
 - Further hyperparameter tuning.
