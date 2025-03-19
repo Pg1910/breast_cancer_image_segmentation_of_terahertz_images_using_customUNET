@@ -191,6 +191,7 @@ You can view the full **Google Colab Notebook** for this project [here](notebook
 Here’s an example of the model's predictions:
 ![Segmentation Output](results/example_output.png)
 
+# The web app version will be released soon .stay tuned.stay jacked.
 ### Future Work
 
 - Further hyperparameter tuning.
